@@ -4,6 +4,8 @@
 
 * The detailed simulation results using ***Qiskit*** and ***Real IBM Quantum Devices*** have been uploaded.<br>
 
+* Detailed performance test data for this protocol on ***real IBM quantum device*** is stored in folders ***Three-particle GHZ-like states*** and ***Four-particle GHZ-like states*** respectively.<br>
+
 ## ***Multi-party QKA:***
 
 1. Using the ***three-particle GHZ-like states*** to perform MQKA, when ***n=6***, ***m=5***, and the number of decoy states inserted is ***4***, the ***6*** participants ultimately obtain the same key ***KP = K1 || K2 || ... || Kn*** with length of ***60 bits***.<br>
