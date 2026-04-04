@@ -4,7 +4,7 @@
 
 * The detailed simulation results using ***Qiskit*** and ***Real IBM Quantum Devices*** have been uploaded.<br>
 
-* Detailed performance test data for this protocol on ***real IBM quantum device*** is stored in folders ***Three-particle GHZ-like states*** and ***Four-particle GHZ-like states*** respectively.<br>
+* Detailed performance test data for this protocol on ***real IBM quantum device*** is stored in folders ***Three-particle GHZ-like states*** and ***Four-particle GHZ-like states***, respectively.<br>
 
 ## ***Multi-party QKA:***
 
