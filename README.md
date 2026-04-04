@@ -2,7 +2,7 @@
 
 * Running **DA-MQKA.py** to obtain the simulation results.<br>
 
-* The detailed simulation results using ***Qiskit*** and ***IBM Quantum Platform*** have been uploaded.<br>
+* The detailed simulation results using ***Qiskit*** and ***Real IBM Quantum Devices*** have been uploaded.<br>
 
 ## ***Multi-party QKA:***
 
